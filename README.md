@@ -1,2 +1,2 @@
 # hello-world
-almacen ideas, recursos o incluso compartir y debatir cosas con otros
+almacen ideas, recursos, para compartir y debatir cosas con otros
